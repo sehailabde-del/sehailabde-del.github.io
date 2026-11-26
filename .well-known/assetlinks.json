@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sehailabde_del.twa",
+        "sha256_cert_fingerprints": ["2A:5B:97:54:08:17:36:91:88:98:43:B1:2A:F5:3F:C2:A5:32:CA:DE:55:C6:C1:2E:CC:C7:DE:33:13:42:AB:49"]
+      }
+    }]
